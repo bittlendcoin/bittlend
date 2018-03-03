@@ -1,0 +1,9 @@
+Building Bittlendcoin
+
+See doc/readme-qt.rst for instructions on building Bittlendcoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Bittlendcoin.
+
+See doc/build-*.txt for instructions on building bittlendcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Bittlendcoin.
